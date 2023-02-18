@@ -8,7 +8,8 @@ const HeroSection = () => {
       <div className="flex justify-center">
       <div className="w-11/12">
               <h2 className="text-xl sm:text-3xl text-gray-600 font-semibold mb-4 font-mono">
-            Institución Educativa 18169
+            Institución Educativa 18169 <br/>
+            "Escuelas Positivas"
           </h2>
               <p className="text-xl mb-6 px-16">
           La Institución educativa Escuela 18169 se ubica en el distrito de Ocumal, localidad de Congón, provincia de Luya, tal IE compete a la UGEL LUYA que inspecciona el servicio educativo, que pertenece a la Dirección regional de educación DRE AMAZONAS.
