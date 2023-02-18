@@ -4,8 +4,8 @@ const HeroSection = () => {
   return (
     <section className="bg-gray-100 py-12">
       <div className="container py-8 mx-auto sm:flex justify-between items-center">
-        <div className="w-full sm:w-3/5">
-          <h2 className="text-3xl text-gray-600 font-semibold mb-4 font-mono">
+        <div className="w-11/12 sm:w-3/5">
+          <h2 className="text-xl sm:text-3xl text-gray-600 font-semibold mb-4 font-mono">
             Institución Educativa 18169
           </h2>
           <p className="text-xl mb-6 px-16">
