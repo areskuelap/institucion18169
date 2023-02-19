@@ -36,7 +36,7 @@ const AboutUs = () => {
                   <FaEnvelope className="text-blue-500 mr-2" />
                   <h3 className="text-gray-800 font-medium">Email</h3>
                 </div>
-                <p className="text-gray-600">contacto@escuelaspositivas.edu.pe</p>
+                <p className="text-gray-600 text-sm">contacto@escuelaspositivas.edu.pe</p>
               </div>
             </div>
           </div>
