@@ -28,7 +28,7 @@ const Features = () => {
           </div>
           </div>
           </div>
-          <div className="pt-5 flex justify-start">
+          <div className="pt-5 pt-8">
            <p className="pt-2 font-semibold text-gray-700">Director: JOSE LUIS ARISTA TEJADA</p>
            <p className="pt-5 font-semibold text-gray-500">Docentes:</p>
            <p className="pb-2 font-semibold text-gray-700">-ALAN SANCHEZ ILIQUIN</p>
