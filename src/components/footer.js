@@ -9,10 +9,10 @@ const Footer = () => {
           <h1 className="text-lg font-bold">Amazonas</h1>
         </div>
         <div className="flex space-x-6">
-          <a href="https://web.facebook.com/groups/1678466822249266 target="_blank"">
+          <a href="https://web.facebook.com/groups/1678466822249266" target="_blank">
             <FaFacebook className="w-6 h-6" />
           </a>
-          <a href="https://web.facebook.com/groups/1678466822249266 target="_blank"">
+          <a href="https://web.facebook.com/groups/1678466822249266" target="_blank">
             <FaTwitter className="w-6 h-6" />
           </a>
           <a href="https://web.facebook.com/groups/1678466822249266" target="_blank">
